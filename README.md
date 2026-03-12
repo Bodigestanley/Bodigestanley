@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Bodige Stanley</h1>
+<h1 align="center">Bodige Stanley</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00E5FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Cloud+Infrastructure+Learner;Docker+%7C+Kubernetes+%7C+AWS;CI%2FCD+Pipeline+Builder;Automation+Enthusiast"/>
